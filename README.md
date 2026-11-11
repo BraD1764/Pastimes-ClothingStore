@@ -11,17 +11,11 @@ Pastimes Clothing Store is a PHP and MySQL web application developed to provide 
 Technologies Used
 
 · PHP
-
 · MySQL
-
 · HTML5
-
 · CSS3
-
 · JavaScript
-
 · XAMPP
-
 · phpMyAdmin
 
 
@@ -32,122 +26,79 @@ Database script:
 MyClothingStore.sql
 
 
-System Features
-Customer Features
+System Features:
+Customer Features:
 
 · User Registration
-
 · User Login and Logout
-
 · Browse Clothing Products
-
 · View Product Details
-
 · Add Products to Cart
-
 · Checkout Functionality
-
 · Purchase History
-
 · Session Management
 
-Administrator Features
+Administrator Features:
 
 · Administrator Login
-
 · Dashboard Overview
-
 · Verify User Accounts
-
 · Suspend User Accounts
-
 · Delete User Accounts
-
 · Add Clothing Items
-
 · Edit Clothing Items
-
 · Delete Clothing Items
-
 · View Purchase History Reports
 
-Installation Instructions
+Installation Instructions:
 
 Step 1: Install XAMPP
-
 Download and install XAMPP from: https://www.apachefriends.org
 
 
-Step 2: Copy Project Files
+Step 2: Copy Project Files:
 
 Copy the project folder:
-
 Pastimes
-
 into:
-
 C:\xampp\htdocs\
 
 
-Step 3: Start Services
+Step 3: Start Services:
 
 Open XAMPP Control Panel and start:
 · Apache
-
 · MySQL
 
 
-Step 4: Create Database
+Step 4: Create Database:
 
 Open phpMyAdmin:
-
 http://localhost/phpmyadmin
-
 Import:
-
 MyClothingStore.sql
-
 The script will automatically create:
-
 ClothingStore
-
 database and populate it with sample data.
 
-Step 5: Configure Database Connection
+Step 5: Configure Database Connection:
 
 Open:
-
 includes\DBconn.php
-
 Verify connection settings:
-
 $host = "localhost";
-
 $user = "root";
-
 $password = "";
-
 $database = "ClothingStore";
 
-Step 6: Run Application
+Step 6: Run Application:
 
 Navigate to:
-
 http://localhost/Pastimes
-
-
- 
-
 Default Administrator Account 
-
 Email: 
-
 admin@clothingstore.co.za 
-
- 
-
 Password: 
-
 admin2025 
 
  
@@ -158,25 +109,15 @@ Project Structure:
 │ 
 
 ├── admin_dashboard.php 
-
 ├── admin_login.php 
-
 ├── cart.php 
-
 ├── Checkout.php 
-
 ├── Clothes.php 
-
 ├── index.php 
-
 ├── Login.php 
-
 ├── logout.php 
-
 ├── Messages.php 
-
 ├── purchase_history.php 
-
 ├── Register.php 
 
 │ 
@@ -188,11 +129,8 @@ Project Structure:
 ├── includes/ 
 
 │   ├── DBconn.php 
-
 │   ├── functions.php 
-
 │   ├── header.php 
-
 │   └── footer.php 
 
 │ 
