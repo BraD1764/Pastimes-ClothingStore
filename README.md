@@ -152,9 +152,8 @@ admin2025
 
  
 
-Project Structure 
+Project Structure: 
 
-wede2/ 
 
 │ 
 
