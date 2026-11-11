@@ -1,5 +1,5 @@
 # Pastimes-ClothingStore
-Second-Hand Branded Clothing Web Application - PHP &amp; MySQL
+Second-Hand Branded Clothing Web Application - PHP and MySQL
 
 Project by: BraD1764(Me) And Fortunate Lukhele
 
@@ -202,36 +202,24 @@ wede2/
 
  
 
-Purchase History Report 
+Purchase History Report:
 
 The system includes a Purchase History feature that allows administrators to: 
-
 View customer purchase records. 
-
 Display all items purchased. 
-
 View order dates and order status. 
-
 Generate a printable report. 
-
 Calculate and display the Grand Total of all purchases at the bottom of the report. 
-
 This functionality satisfies the assessment requirement: 
-
 "User has option to draw history of purchases. Report must show total of all purchases at bottom of page." 
 
  
-
-Security Features 
+Security Features:
 
 Session-based authentication 
-
 Prepared SQL statements 
-
 Password hashing 
-
 Access control for administrator pages 
-
 User status verification
 
 Project: Pastimes Clothing Store Management System 
