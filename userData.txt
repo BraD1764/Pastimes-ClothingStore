@@ -1,0 +1,5 @@
+John,Doe,j.doe@abc.co.za,482c811da5d5b4bc6d497ffa98491e38,0821234567,12 Rose St Pretoria,active
+Sarah,Smith,s.smith@xyz.co.za,482c811da5d5b4bc6d497ffa98491e38,0839876543,5 Oak Ave Johannesburg,active
+Michael,Johnson,m.johnson@mail.co.za,482c811da5d5b4bc6d497ffa98491e38,0761112233,88 Pine Rd Cape Town,active
+Nomsa,Zulu,n.zulu@web.co.za,482c811da5d5b4bc6d497ffa98491e38,0724445566,3 Lily Ln Durban,active
+Pieter,van Wyk,p.vanwyk@net.co.za,482c811da5d5b4bc6d497ffa98491e38,0837778899,21 Baobab St Bloemfontein,pending
